@@ -3,7 +3,10 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Pp]ackages/
+[Uu]nityPackageManager/
 Assets/AssetStoreTools*
+
 
 # Visual Studio cache directory
 .vs/
